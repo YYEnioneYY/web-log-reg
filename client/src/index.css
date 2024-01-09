@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 40%, rgba(40,40,43,1) 70%, rgba(102,101,101,1) 100%);
+  }
+}
